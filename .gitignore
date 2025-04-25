@@ -1,0 +1,9 @@
+*
+
+!/nvim/
+!/bash/
+
+!/nvim/**
+!/bash/**
+
+!/.gitignore
